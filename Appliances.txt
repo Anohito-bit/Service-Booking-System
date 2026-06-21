@@ -1,0 +1,6 @@
+Refrigerator,RM180
+Washing Machine,RM200
+Television,RM250
+Air Conditioner,RM100
+Water Heater,RM80
+Microwave oven,RM100

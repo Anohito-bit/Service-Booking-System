@@ -1,0 +1,1 @@
+B2,qw,Refrigerator,The refrigerator not cold anymore.,2025-12-12,02:47,null,Pending
